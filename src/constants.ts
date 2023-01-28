@@ -1,0 +1,2 @@
+export const USERS_REPOSITORY = 'USERS_REPOSITORY' as string;
+export const DATABASE_CONNECTION = 'DATABASE_CONNECTION' as string;
